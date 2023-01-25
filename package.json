@@ -1,27 +1,7 @@
 {
   "name": "ttimer",
-  "version": "0.1.0",
-  "description": "A timer library, helps you to count at Infinity",
-  "main": "lib/es5/index.js",
-  "module": "lib/es6/indes.js",
-  "sideEffects": false,
-  "repository": {
-    "type": "git",
-    "url": "git@lucasdu4rte.com:lucasdu4rte/ttimer.git"
-  },
-  "files": [
-    "lib",
-    "CHANGELOG.md",
-    "LICENSE",
-    "package.json",
-    "README.md"
-  ],
-  "keywords": [
-    "javascript",
-    "timer",
-    "time-utilities",
-    "date-utilities"
-  ],
+  "version": "0.0.1",
+  "repository": "git@github.com:lucasdu4rte/ttimer.git",
   "author": "Lucas Duarte <lucasdu4rte@gmail.com>",
   "license": "MIT",
   "scripts": {
